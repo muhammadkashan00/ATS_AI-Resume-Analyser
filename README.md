@@ -51,6 +51,3 @@ cd <folder-name>
 
 ## 🎯 Target Audience
 Designed for **HR Professionals**, **Recruiters**, and **Hiring Managers** who deal with large candidate pools and need data-driven insights to make faster, better hiring decisions.
-
----
-Built with ❤️ by AI Enthusiasts.
